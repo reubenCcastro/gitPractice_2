@@ -7,5 +7,7 @@ public class addCommand {
         //will see you in Github
 
         //I made changes
+        
+        //Test I made changes in Github
     }
 }
